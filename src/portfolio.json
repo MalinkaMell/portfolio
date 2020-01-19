@@ -1,0 +1,285 @@
+[
+  {
+    "id": 15,
+    "title": "Clicky Game",
+    "image": "clicky-game.png",
+    "tags": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "ReactJS",
+      "React Bootstrap"
+    ],
+    "desc": "Memory game created with React.",
+    "github": "https://github.com/MalinkaMell/clicky-game/tree/master",
+    "demo": "https://malinkamell.github.io/clicky-game/"
+  },
+  {
+    "id": 14,
+    "title": "MetalScrapes",
+    "image": "metal-scrapes.png",
+    "tags": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "jQuery",
+      "bootstrap",
+      "Node.js",
+      "MongoDB",
+      "Express",
+      "Express-Handlebars",
+      "Mongoose",
+      "cheerio",
+      "Axios",
+      "dotenv",
+      "morgan",
+      "moment"
+    ],
+    "desc": "Using Mongoose anc Cheerio to scrape news from another website",
+    "github": "https://github.com/MalinkaMell/scrappies",
+    "demo": "https://scrappies.herokuapp.com/"
+  },
+  {
+    "id": 13,
+    "title": "Project 2: N.E. Gym",
+    "image": "project-2.png",
+    "tags": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "jQuery",
+      "bootstrap",
+      "Node.js",
+      "MySQL",
+      "Express",
+      "Sequelize",
+      "Handlebars",
+      "passport",
+      "PayPal",
+      "nodemailer",
+      "Tail.DateTime.js",
+      "moment.js",
+      "datatables.js",
+      "google calendar"
+    ],
+    "desc": "Second group project for UoA Coding Bootcamp. Simple a Content Management System (CMS) that performs CRUD operations with given tools.",
+    "github": "https://github.com/MalinkaMell/project-2",
+    "demo": "https://ircj-project-2.herokuapp.com/"
+  },
+  {
+    "id": 6,
+    "title": "Project 1: Spotlight!",
+    "image": "project-1.png",
+    "tags": [
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "jQuery",
+      "bootstrap",
+      "moment.js",
+      "anime.js"
+    ],
+    "api": [
+      "APIs: LastFM",
+      "Bandsintown",
+      "Kajak",
+      "Foursquare Places",
+      "Dark Sky Weather API",
+      "Google Maps",
+      "Countryflags.io"
+    ],
+    "desc": "First group project for UoA Coding Bootcamp. A tool to follow your favorite performers’ live events",
+    "github": "https://github.com/MalinkaMell/Project-1",
+    "demo": "https://malinkamell.github.io/Project-1/"
+  },
+  {
+    "id": 12,
+    "title": "Eat-Da-Burger! Sequelized",
+    "image": "burger-Sequelize.png",
+    "tags": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "jQuery",
+      "bootstrap",
+      "Node.js",
+      "MySQL",
+      "Express ",
+      "Handlebars",
+      "Sequelize"
+    ],
+    "desc": "Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.",
+    "github": "https://github.com/MalinkaMell/SequelizedBurger",
+    "demo": "https://ik-eat-da-burger-Sequelize.herokuapp.com/"
+  },
+  {
+    "id": 3,
+    "title": "Harry Potter Trivia Game",
+    "image": "trivia-game.png",
+    "tags": [
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "jQuery",
+      "bootstrap"
+    ],
+    "desc": "Trivia Game based on Harry Potter Books",
+    "github": "https://github.com/MalinkaMell/TriviaGame",
+    "demo": "https://malinkamell.github.io/TriviaGame/"
+  },
+  {
+    "id": 10,
+    "title": "Friend Finder",
+    "image": "friend-finder.png",
+    "tags": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "jQuery",
+      "bootstrap",
+      "Node.js",
+      "Express",
+      "Handlebars"
+    ],
+    "desc": "Compatibility-based 'FriendFinder' application -- basically a dating app",
+    "github": "https://github.com/MalinkaMell/FriendFinder",
+    "demo": "https://hidden-stream-57928.herokuapp.com/"
+  },
+  {
+    "id": 0,
+    "title": "Word Guess Game",
+    "image": "word-guess-game.png",
+    "tags": [
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "bootstrap"
+    ],
+    "desc": "Guess the word",
+    "github": "https://github.com/MalinkaMell/Word-Guess-Game",
+    "demo": "https://malinkamell.github.io/Word-Guess-Game/"
+  },
+  {
+    "id": 1,
+    "title": "Crystall Collector Game",
+    "image": "crystal-collector.png",
+    "tags": [
+      "JavaScript",
+      "HTML5",
+      "CSS3"
+    ],
+    "desc": "Match random number",
+    "github": "https://github.com/MalinkaMell/unit-4-game",
+    "demo": "https://malinkamell.github.io/unit-4-game/"
+  },
+  {
+    "id": 2,
+    "title": "Star Wars RPG",
+    "image": "star-wars-rpg-game.png",
+    "tags": [
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "jQuery",
+      "bootstrap"
+    ],
+    "desc": "Browser based RPG",
+    "github": "https://github.com/MalinkaMell/Star-Wars-RPG-Game",
+    "demo": "https://malinkamell.github.io/Star-Wars-RPG-Game/"
+  },
+  {
+    "id": 4,
+    "title": "Super Fast Trains",
+    "image": "train-scheduler.png",
+    "tags": [
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "jQuery",
+      "bootstrap",
+      "moment.js"
+    ],
+    "desc": "Application that incorporates Firebase and manipulate information with Moment.js.",
+    "github": "https://github.com/MalinkaMell/Train-Scheduler",
+    "demo": "https://malinkamell.github.io/Train-Scheduler/"
+  },
+  {
+    "id": 5,
+    "title": "GifTastic Animals",
+    "image": "giftastic.png",
+    "tags": [
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "jQuery",
+      "bootstrap",
+      "Ajax",
+      "Gyphy API"
+    ],
+    "desc": "Using the GIPHY API to make a dynamic web page that populates with gifs",
+    "github": "https://github.com/MalinkaMell/GifTastic",
+    "demo": "https://malinkamell.github.io/GifTastic/"
+  },
+  {
+    "id": 7,
+    "title": "LIRI Bot",
+    "image": "liri-bot.png",
+    "tags": [
+      "JavaScript",
+      "Node.js",
+      "Axios",
+      "moment.js",
+      "dotenv",
+      "fs"
+    ],
+    "desc": "First Node.js project for UoA coding Bootcamp. LIRI is a Language Interpretation and Recognition Interface",
+    "github": "https://github.com/MalinkaMell/liri-node-app",
+    "demo": "https://youtu.be/gkmIP7Ln2ME"
+  },
+  {
+    "id": 8,
+    "title": "Constructor Word Guess",
+    "image": "constructor-word-guess.png",
+    "tags": [
+      "JavaScript",
+      "Node.js",
+      "inquirer"
+    ],
+    "desc": "Word Guess command-line game using constructor functions",
+    "github": "https://github.com/MalinkaMell/Constructor-Word-Guess",
+    "demo": "https://youtu.be/ZjHlaBjDAC8"
+  },
+  {
+    "id": 9,
+    "title": "Bamazon",
+    "image": "bamazon.png",
+    "tags": [
+      "JavaScript",
+      "Node.js",
+      "MySQL",
+      "inquirer"
+    ],
+    "desc": "Amazon-like storefront created using MySQL and Node.js",
+    "github": "https://github.com/MalinkaMell/bamazon",
+    "demo": ""
+  },
+  {
+    "id": 11,
+    "title": "Eat-Da-Burger!",
+    "image": "burger.png",
+    "tags": [
+      "HTML5",
+      "CSS3",
+      " JavaScript",
+      "jQuery",
+      "bootstrap",
+      "Node.js",
+      "MySQL",
+      "Express",
+      "Handlebars"
+    ],
+    "desc": "Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.",
+    "github": "https://github.com/MalinkaMell/burger",
+    "demo": "https://dry-harbor-65792.herokuapp.com/"
+  }
+]

@@ -1,0 +1,13 @@
+/*------ Social Icons on Top ------*/
+.social-bar {
+  height: 70px!important;
+  width: 100%;
+}
+
+a.social-icon {
+color: #ffffff60;
+}
+
+a.social-icon:hover {
+  color: #7f0000;
+}
