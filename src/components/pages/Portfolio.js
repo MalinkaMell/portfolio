@@ -1,7 +1,7 @@
 import React from 'react';
 import './pages.css';
-import { Row, Col, Image, Button } from 'react-bootstrap';
-import items from '../../portfolio.json'
+import { Row, Col, Image } from 'react-bootstrap';
+import items from '../../portfolio.json';
 
 class Portfolio extends React.Component {
   state = {

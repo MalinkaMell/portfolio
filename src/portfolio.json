@@ -23,7 +23,7 @@
       "CSS3",
       "JavaScript",
       "jQuery",
-      "bootstrap",
+      "Bootstrap",
       "Node.js",
       "MongoDB",
       "Express",
@@ -48,19 +48,19 @@
       "CSS3",
       "JavaScript",
       "jQuery",
-      "bootstrap",
+      "Bootstrap",
       "Node.js",
       "MySQL",
       "Express",
       "Sequelize",
       "Handlebars",
-      "passport",
+      "Passport",
       "PayPal",
-      "nodemailer",
+      "Nodemailer",
       "Tail.DateTime.js",
-      "moment.js",
-      "datatables.js",
-      "google calendar"
+      "Moment.js",
+      "Datatables.js",
+      "Google calendar"
     ],
     "desc": "Second group project for UoA Coding Bootcamp. Simple a Content Management System (CMS) that performs CRUD operations with given tools.",
     "github": "https://github.com/MalinkaMell/project-2",
@@ -75,9 +75,9 @@
       "HTML5",
       "CSS3",
       "jQuery",
-      "bootstrap",
-      "moment.js",
-      "anime.js"
+      "Bootstrap",
+      "Moment.js",
+      "Anime.js"
     ],
     "api": [
       "APIs: LastFM",
@@ -95,13 +95,13 @@
   {
     "id": 12,
     "title": "Eat-Da-Burger! Sequelized",
-    "image": "burger-Sequelize.png",
+    "image": "burger-sequelize.png",
     "tags": [
       "HTML5",
       "CSS3",
       "JavaScript",
       "jQuery",
-      "bootstrap",
+      "Bootstrap",
       "Node.js",
       "MySQL",
       "Express ",
@@ -121,7 +121,7 @@
       "HTML5",
       "CSS3",
       "jQuery",
-      "bootstrap"
+      "Bootstrap"
     ],
     "desc": "Trivia Game based on Harry Potter Books",
     "github": "https://github.com/MalinkaMell/TriviaGame",
@@ -136,7 +136,7 @@
       "CSS3",
       "JavaScript",
       "jQuery",
-      "bootstrap",
+      "Bootstrap",
       "Node.js",
       "Express",
       "Handlebars"
@@ -153,7 +153,7 @@
       "JavaScript",
       "HTML5",
       "CSS3",
-      "bootstrap"
+      "Bootstrap"
     ],
     "desc": "Guess the word",
     "github": "https://github.com/MalinkaMell/Word-Guess-Game",
@@ -181,7 +181,7 @@
       "HTML5",
       "CSS3",
       "jQuery",
-      "bootstrap"
+      "Bootstrap"
     ],
     "desc": "Browser based RPG",
     "github": "https://github.com/MalinkaMell/Star-Wars-RPG-Game",
@@ -196,8 +196,8 @@
       "HTML5",
       "CSS3",
       "jQuery",
-      "bootstrap",
-      "moment.js"
+      "Bootstrap",
+      "Moment.js"
     ],
     "desc": "Application that incorporates Firebase and manipulate information with Moment.js.",
     "github": "https://github.com/MalinkaMell/Train-Scheduler",
@@ -212,7 +212,7 @@
       "HTML5",
       "CSS3",
       "jQuery",
-      "bootstrap",
+      "Bootstrap",
       "Ajax",
       "Gyphy API"
     ],
@@ -228,9 +228,9 @@
       "JavaScript",
       "Node.js",
       "Axios",
-      "moment.js",
-      "dotenv",
-      "fs"
+      "Moment.js",
+      "Dotenv",
+      "Fs"
     ],
     "desc": "First Node.js project for UoA coding Bootcamp. LIRI is a Language Interpretation and Recognition Interface",
     "github": "https://github.com/MalinkaMell/liri-node-app",
@@ -243,7 +243,7 @@
     "tags": [
       "JavaScript",
       "Node.js",
-      "inquirer"
+      "Inquirer"
     ],
     "desc": "Word Guess command-line game using constructor functions",
     "github": "https://github.com/MalinkaMell/Constructor-Word-Guess",
@@ -257,7 +257,7 @@
       "JavaScript",
       "Node.js",
       "MySQL",
-      "inquirer"
+      "Inquirer"
     ],
     "desc": "Amazon-like storefront created using MySQL and Node.js",
     "github": "https://github.com/MalinkaMell/bamazon",
@@ -270,9 +270,9 @@
     "tags": [
       "HTML5",
       "CSS3",
-      " JavaScript",
+      "JavaScript",
       "jQuery",
-      "bootstrap",
+      "Bootstrap",
       "Node.js",
       "MySQL",
       "Express",

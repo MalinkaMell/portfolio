@@ -92,20 +92,26 @@ const Resume = () => {
           <i className="fas fa-cog"></i> Programming Skills</div>
         <div className="category-inner">
           <ul className="list-group list-group-flush">
-            <li className="list-group-item">HTML/HTML 5.0</li>
-            <li className="list-group-item">CSS3</li>
+            <li className="list-group-item">HTML/HTML 5/CSS3</li>
             <li className="list-group-item">JavaScript</li>
-            <li className="list-group-item">MySQL</li>
+            <li className="list-group-item">jQuery</li>
+            <li className="list-group-item">MySQL/NoSQL</li>
+            <li className="list-group-item">Node.js</li>
+            <li className="list-group-item">Express</li>
+            <li className="list-group-item">ReactJS</li>
           </ul>
         </div>
         <div className="category text-white text-uppercase">
           <i className="fas fa-tools"></i> Tools</div>
         <div className="category-inner">
           <ul className="list-group list-group-flush">
+            <li className="list-group-item">AWS</li>
             <li className="list-group-item">Twitter Bootstrap</li>
+            <li className="list-group-item">React Bootstrap</li>
             <li className="list-group-item">Wordpress</li>
+            <li className="list-group-item">Drupal</li>
             <li className="list-group-item">Magento</li>
-            <li className="list-group-item">Adobe Creative Suite</li>
+            <li className="list-group-item">Adobe Photoshop</li>
 
           </ul>
         </div>
