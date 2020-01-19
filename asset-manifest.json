@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MalinkaMell/portfolio/static/css/main.d9f82c9f.chunk.css",
+    "main.js": "/MalinkaMell/portfolio/static/js/main.00131391.chunk.js",
+    "main.js.map": "/MalinkaMell/portfolio/static/js/main.00131391.chunk.js.map",
+    "runtime-main.js": "/MalinkaMell/portfolio/static/js/runtime-main.9f4160f3.js",
+    "runtime-main.js.map": "/MalinkaMell/portfolio/static/js/runtime-main.9f4160f3.js.map",
+    "static/js/2.91060deb.chunk.js": "/MalinkaMell/portfolio/static/js/2.91060deb.chunk.js",
+    "static/js/2.91060deb.chunk.js.map": "/MalinkaMell/portfolio/static/js/2.91060deb.chunk.js.map",
+    "index.html": "/MalinkaMell/portfolio/index.html",
+    "precache-manifest.50502ea5942cf1ee721ad0f60416a68b.js": "/MalinkaMell/portfolio/precache-manifest.50502ea5942cf1ee721ad0f60416a68b.js",
+    "service-worker.js": "/MalinkaMell/portfolio/service-worker.js",
+    "static/css/main.d9f82c9f.chunk.css.map": "/MalinkaMell/portfolio/static/css/main.d9f82c9f.chunk.css.map",
+    "static/js/2.91060deb.chunk.js.LICENSE": "/MalinkaMell/portfolio/static/js/2.91060deb.chunk.js.LICENSE",
+    "static/media/App.css": "/MalinkaMell/portfolio/static/media/bg.ea3e1762.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f4160f3.js",
+    "static/js/2.91060deb.chunk.js",
+    "static/css/main.d9f82c9f.chunk.css",
+    "static/js/main.00131391.chunk.js"
+  ]
+}
