@@ -7,7 +7,7 @@ const Profile = () => {
       <div className="row animated bounceInLeft">
 
         <div className="col-4 col-md-3 my-2">
-          <img src="assets/images/profile.jpg" className="rounded float-left img-fluid" alt="Irina Kudosova" />
+          <img src="assets/images/profile-bw.jpg" className="rounded float-left img-fluid" alt="Irina Kudosova" />
         </div>
         <div className="col-8 col-md-4 my-2">
           <h3 className="text-uppercase ubuntu text-white font-weight-bold font-weight-light">

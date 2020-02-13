@@ -1,5 +1,67 @@
 [
   {
+    "id": 18,
+    "title": "Project #3: Casino S.H.I.C.",
+    "image": "casino-shic.png",
+    "tags": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "ReactJS",
+      "React Bootstrap",
+      "React icons",
+      "Reart Routs",
+      "Express",
+      "MongoDB",
+      "Mongoose",
+      "Axios",
+      "Socket.io",
+      "AWS S3",
+      "Multer",
+      "Auth0"
+    ],
+    "desc": "Lobby Casino games: Craps, Slots, Roulette, BlackJack wrapped in a portal with autentification, chat and user profile",
+    "github": "https://github.com/cchitla/casino-shic",
+    "demo": "https://casino-shic.herokuapp.com/"
+  },
+  {
+    "id": 17,
+    "title": "Rouette Game Stand Alone",
+    "image": "roulette-sa.png",
+    "tags": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "ReactJS",
+      "React Bootstrap",
+      "React icons"
+    ],
+    "desc": "Stand alone version of Roulette game made for Project #3: Casino S.H.I.C.",
+    "github": "https://github.com/MalinkaMell/Roulette-Game-React",
+    "demo": "https://malinkamell.github.io/Roulette-Game-React/"
+  },
+  {
+    "id": 16,
+    "title": "React Google Books Search",
+    "image": "gbs.png",
+    "tags": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "ReactJS",
+      "Reart Routs",
+      "React Bootstrap",
+      "Express",
+      "MongoDB",
+      "Mongoose",
+      "Axios"
+
+    ],
+    "desc": "Search for and Save Books of interest (In React).",
+    "github": "https://github.com/MalinkaMell/Google-Books-Search/",
+    "demo": "https://radiant-eyrie-41193.herokuapp.com/"
+  },
+  {
     "id": 15,
     "title": "Clicky Game",
     "image": "clicky-game.png",
