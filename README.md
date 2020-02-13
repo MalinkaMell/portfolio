@@ -1,6 +1,6 @@
 # My Portfolio
 
-[Link to Portfolio](https://malinkamell.github.io/)
+[Link to Portfolio](https://github.com/MalinkaMell/portfolio)
 
 
 ### Developed from scratch using:
