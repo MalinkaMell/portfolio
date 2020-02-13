@@ -19,7 +19,7 @@ const Resume = () => {
         <Lang />
       </div>
       <div className="mt-1 w-100">
-        <a href="/assets/files/Irina-Kudosova-Dwld.pdf"
+        <a href="assets/files/Irina-Kudosova-Dwld.pdf"
           className="btn-resume hvr-bounce-to-right ubuntu text-uppercase"
           rel="noopener noreferrer"
           target="blank"  >

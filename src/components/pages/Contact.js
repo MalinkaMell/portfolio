@@ -34,7 +34,7 @@ const Contact = () => {
         </address>
       </div>
       <div className="col-md-4">
-        <a href="/assets/files/Irina-Kudosova-Dwld.pdf"
+        <a href="assets/files/Irina-Kudosova-Dwld.pdf"
           target="blank"
           rel="noopener noreferrer"
           className="btn-resume hvr-bounce-to-right ubuntu text-uppercase">
