@@ -10,8 +10,8 @@ const Expirience = () => {
       <div className="category-inner">
 
         {
-          exp.map(item => (
-            <Row>
+          exp.map((item, index) => (
+            <Row key={index}>
               <Col xs={8}>
                 <h6 className="text-white">
                   {item.companyName}</h6>

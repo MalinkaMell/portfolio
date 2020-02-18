@@ -6,46 +6,68 @@ import Profile from '../pages/Profile';
 import Resume from '../pages/Resume';
 import Portfolio from '../pages/Portfolio';
 import Contact from '../pages/Contact';
+import { useAccordionToggle } from 'react-bootstrap/AccordionToggle';
 
 
-const Body = () => {
-  return (
-    <section className="row justify-content-center" id="main">
-      <div className="col-md-9">
-        <Accordion defaultActiveKey={0}>
-          {
-            Pages.map((page, index) =>
-              <Card key={index}>
-                <Card.Header>
-                  <Accordion.Toggle as={Card.Link} variant="link" eventKey={index} className="mb-0 d-flex justify-content-start">
 
-                    <div className="col-auto card-icon one d-flex align-items-center">
-                      <i className={"fa fa-2x " + page.iconName} aria-hidden="true"></i>
-                    </div>
 
-                    <div className="h5 col-auto h-title card-title d-flex align-items-center text-uppercase">
-                      {page.name}
-                    </div>
+class Body extends React.Component {
+  state = {
+    active: false
+  }
 
-                    <div className="col-auto card-icon-end d-flex align-items-center">
-                      <i className="fa fa-chevron-up fa-2x" aria-hidden="true"></i>
-                    </div>
 
-                  </Accordion.Toggle>
-                </Card.Header>
-                <Accordion.Collapse eventKey={index}>
-                  <Card.Body>
-                    {page.renderPage}
-                  </Card.Body>
-                </Accordion.Collapse>
-              </Card>
-            )
-          }
+  CustomToggle = ({ children, eventKey }) => {
+    const decoratedOnClick = useAccordionToggle(eventKey, () =>
+      this.setState(prevState => ({ active: !prevState.active }))
+    );
 
-        </Accordion>
+    return (
+      <div onClick={decoratedOnClick} className=" d-flex justify-content-start">
+        {children}
       </div>
-    </section>
-  );
+    );
+  }
+
+  render() {
+    return (
+      <section className="row justify-content-center" id="main">
+        <div className="col-md-9">
+          <Accordion defaultActiveKey={0}>
+            {
+              Pages.map((page, index) =>
+                <Card key={index}>
+                  <Card.Header>
+                    <this.CustomToggle eventKey={index} className="mb-0">
+                      <div className="col-auto card-icon one d-flex align-items-center">
+                        <i className={"fa fa-2x " + page.iconName} aria-hidden="true"></i>
+                      </div>
+
+                      <div className="h5 col-auto h-title card-title d-flex align-items-center text-uppercase">
+                        {page.name}
+                      </div>
+
+                      <div className="col-auto card-icon-end d-flex align-items-center">
+                        <i className={this.state.active ? "fa fa-chevron-down fa-2x" : "fa fa-chevron-up fa-2x"} aria-hidden="true"></i>
+                      </div>
+
+                    </this.CustomToggle>
+                  </Card.Header>
+                  <Accordion.Collapse eventKey={index}>
+                    <Card.Body>
+                      {page.renderPage}
+                    </Card.Body>
+                  </Accordion.Collapse>
+                </Card>
+              )
+            }
+
+          </Accordion>
+        </div>
+      </section>
+    );
+  }
+
 }
 
 const Pages = [
