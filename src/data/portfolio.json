@@ -1,5 +1,24 @@
 [
   {
+    "id": 19,
+    "title": "Dolce Vita Gelato and Grocery",
+    "image": "dolcevita.jpg",
+    "tags": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "ReactJS",
+      "React Bootstrap",
+      "MDB React",
+      "Reart Router",
+      "Express",
+      "Nodemailer"
+    ],
+    "desc": "SAP website for local Italian gelato and grocery store. Work in progress!",
+    "github": "https://github.com/MalinkaMell/dolce-vita",
+    "demo": "https://dolce-vita.herokuapp.com/"
+  },
+  {
     "id": 18,
     "title": "Project #3: Casino S.H.I.C.",
     "image": "casino-shic.png",
@@ -10,7 +29,7 @@
       "ReactJS",
       "React Bootstrap",
       "React icons",
-      "Reart Routs",
+      "Reart Router",
       "Express",
       "MongoDB",
       "Mongoose",
@@ -55,7 +74,6 @@
       "MongoDB",
       "Mongoose",
       "Axios"
-
     ],
     "desc": "Search for and Save Books of interest (In React).",
     "github": "https://github.com/MalinkaMell/Google-Books-Search/",
@@ -124,7 +142,7 @@
       "Datatables.js",
       "Google calendar"
     ],
-    "desc": "Second group project for UoA Coding Bootcamp. Simple a Content Management System (CMS) that performs CRUD operations with given tools.",
+    "desc": "Second group project for UoA Coding Bootcamp. Simple a Content Management System (CMS) that performs CRUD operations with given tools. Admin panel: https://ircj-project-2.herokuapp.com/admin/ login: irinakudosova@gmail.com password: password",
     "github": "https://github.com/MalinkaMell/project-2",
     "demo": "https://ircj-project-2.herokuapp.com/"
   },

@@ -1,14 +1,14 @@
 [
   {
     "companyName": "Advertising Business Consultants, LLC",
-    "role": "Consultant, Web Design",
+    "role": "Lead Web Developer ",
     "startDate": "09/2015",
-    "endDate": "08/2017",
+    "endDate": "01/2019",
     "Location": "Peoria, AZ"
   },
   {
     "companyName": "Mousee Games, LLC",
-    "role": "Mobile Games Design and Development in Unity 3D",
+    "role": "Lead Web Developer",
     "startDate": "03/2012",
     "endDate": "06/2015",
     "Location": "Phoenix, AZ"
@@ -16,7 +16,7 @@
   ,
   {
     "companyName": "Golden Worlds EMG",
-    "role": "Product Development Specialist",
+    "role": "Web Developer",
     "startDate": "07/2011",
     "endDate": "02/2012",
     "Location": "Phoenix, AZ"
@@ -24,17 +24,9 @@
 ,
   {
     "companyName": "Kalicanthus Entertainment S.R.L.",
-    "role": "Product manager",
+    "role": "Lead Web Developer",
     "startDate": "04/2007",
     "endDate": "05/2011",
-    "Location": "Milan, Italy"
-  }
-,
-  {
-    "companyName": "Intrasoft S.P.A.",
-    "role": "Product manager",
-    "startDate": "06/2004",
-    "endDate": "12/2006",
     "Location": "Milan, Italy"
   }
 ]

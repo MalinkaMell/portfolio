@@ -1,10 +1,9 @@
 import React from 'react';
-import './pages.css';
-import Expirience from '../expiriense/expirience';
-import Education from '../education/Education';
-import Lang from '../language/Language';
-import Skills from '../skills/Skills';
-import Tools from '../tools/Tools';
+import Expirience from './Expirience';
+import Education from './Education';
+import Lang from './Language';
+import Skills from './Skills';
+import Tools from './Tools';
 
 const Resume = () => {
   return (
@@ -19,7 +18,7 @@ const Resume = () => {
         <Lang />
       </div>
       <div className="mt-1 w-100">
-        <a href="assets/files/Irina-Kudosova-Dwld.pdf"
+        <a href="assets/files/Irina_Kudosova_Resume.pdf"
           className="btn-resume hvr-bounce-to-right ubuntu text-uppercase"
           rel="noopener noreferrer"
           target="blank"  >

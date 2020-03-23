@@ -1,5 +1,4 @@
 import React from 'react';
-import './pages.css';
 
 const Contact = () => {
   return (
@@ -34,7 +33,7 @@ const Contact = () => {
         </address>
       </div>
       <div className="col-md-4">
-        <a href="assets/files/Irina-Kudosova-Dwld.pdf"
+        <a href="assets/files/Irina_Kudosova_Resume.pdf"
           target="blank"
           rel="noopener noreferrer"
           className="btn-resume hvr-bounce-to-right ubuntu text-uppercase">

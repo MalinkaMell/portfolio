@@ -1,0 +1,5 @@
+[
+  { "name": "Linkedin", "link": "https://www.linkedin.com/in/irina-kudosova-b5238914b/", "classFa": "fab fa-linkedin-in" },
+  { "name": "Github", "link": "https://github.com/MalinkaMell", "classFa": "fab fa-github" },
+  { "name": "Email", "link": "Mailto:irinakudosova@gmail.com", "classFa": "far fa-envelope" }
+]

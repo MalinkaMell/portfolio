@@ -1,5 +1,4 @@
 import React from 'react';
-import './pages.css';
 
 const Profile = () => {
   return (
@@ -23,7 +22,7 @@ const Profile = () => {
               <dd className="col-8">Irina Kudosova</dd>
 
               <dt className="text-white col-4">Location:</dt>
-              <dd className="col-8">Phoenix, AZ 85308, US</dd>
+              <dd className="col-8">Scottsdale, AZ 85259, US</dd>
 
               <dt className="text-white col-4">Phone:</dt>
               <dd className="col-8">
@@ -35,9 +34,9 @@ const Profile = () => {
                 <a className="white-90" href="Mailto:irinakudosova@gmail.com">irinakudosova@gmail.com</a>
               </dd>
 
-              <dt className="text-white col-4">Website</dt>
+              <dt className="text-white col-4">GitHub</dt>
               <dd className="col-8">
-                <a className="white-90" target="_blank" rel="noopener noreferrer" href="https://malinkamell.github.io/">malinkamell.github.io</a>
+                <a className="white-90" target="_blank" rel="noopener noreferrer" href="https://github.com/MalinkaMell">github.com/malinkamell</a>
               </dd>
             </dl>
           </address>
@@ -46,7 +45,7 @@ const Profile = () => {
       <div className="row animated bounceInRight">
         <div className="col-12">
           <p>Full Stack Developer with international experience in Web Design and Development.</p>
-          <p>Earned a certificate in Full Stack Development at the University of Arizona acquiring skills such as JavaScript, JQuery and ReactJS. </p>
+          <p>Earned a certificate in Full Stack Development at the University of Arizona acquiring skills in MERN Stack.</p>
           <p>Very goal-oriented and problem solver with an innate ability to think out of the box.</p>
           <p>Web design and development has always been my passion: I started as Lead Web Designer in the Italian leader gaming company realizing the first game portal with over 350,000 registered users. Then, I worked for four years with a US-based agency working on more than 30 web projects including a custom training portal.</p>
           <p>My passion and my positive work attitude in web complex backend make me a strong addition to a web development team.</p>

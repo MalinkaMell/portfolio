@@ -8,12 +8,11 @@ const Tools = () => {
         <i className="fas fa-tools"></i> Tools</div>
       <div className="category-inner">
         <ListGroup variant="flush">
-          <ListGroupItem>AWS</ListGroupItem>
           <ListGroupItem>Twitter Bootstrap</ListGroupItem>
           <ListGroupItem>React Bootstrap</ListGroupItem>
-          <ListGroupItem>Wordpress</ListGroupItem>
-          <ListGroupItem>Drupal</ListGroupItem>
-          <ListGroupItem>Magento</ListGroupItem>
+          <ListGroupItem>MDBootstrap</ListGroupItem>
+          <ListGroupItem>WordPress</ListGroupItem>
+          <ListGroupItem>Big Commerce</ListGroupItem>
           <ListGroupItem>Adobe Photoshop</ListGroupItem>
         </ListGroup>
       </div>
